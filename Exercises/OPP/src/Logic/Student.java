@@ -1,7 +1,7 @@
 package Logic;
 
 public class Student {
-    //Atributes
+    //Attributes
     int id;
     String name;
     String lastName;
