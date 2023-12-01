@@ -6,6 +6,7 @@ Welcome to my Java OOP learning journey! This repository is a collection of exer
 ## Structure
 
 📚 **Exercises:** Explore directories corresponding to specific exercises or course topics.
+
 ✨ **Solutions:** Witness the evolution of my code as I refine and enhance solutions over time.
 
 ## How to Use
